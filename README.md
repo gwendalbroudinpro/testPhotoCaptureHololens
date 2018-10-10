@@ -10,4 +10,4 @@ Here is my config:
 * Hololens build : RS4 
 * Win 10 SDK: 10.0.17134.0
 * .NET 4.x scripting runtime vesion
-* Vuforia enabled
+
