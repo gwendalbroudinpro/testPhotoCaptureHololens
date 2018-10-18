@@ -12,3 +12,7 @@ Here is my config:
 * .NET 4.x scripting runtime vesion
 * Webcam and Microphone capabilities checked 
 
+<p><a href="https://api.gh-polls.com/poll/01CT3HTHEFV57KHEPE1V9QE9GS/1/vote"><img src="https://api.gh-polls.com/poll/01CT3HTHEFV57KHEPE1V9QE9GS/1" alt=""></a>
+<a href="https://api.gh-polls.com/poll/01CT3HTHEFV57KHEPE1V9QE9GS/2/vote"><img src="https://api.gh-polls.com/poll/01CT3HTHEFV57KHEPE1V9QE9GS/2" alt=""></a></p>
+
+
